@@ -10489,6 +10489,7 @@
   "22737": "Dragon hasta(p+)",
   "22740": "Dragon hasta(p++)",
   "22743": "Dragon hasta(kp)",
+  "22744": "Fake dragon hasta(kp)",
   "22746": "Ikkle hydra",
   "22748": "Ikkle hydra",
   "22750": "Ikkle hydra",
@@ -10617,5 +10618,6 @@
   "23053": "Mystic robe bottom (dusk)",
   "23056": "Mystic gloves (dusk)",
   "23059": "Mystic boots (dusk)",
-  "23062": "Nest box (seeds)"
+  "23062": "Nest box (seeds)",
+  "23064": "Jar of chemicals"
 }
