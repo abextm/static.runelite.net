@@ -10649,7 +10649,6 @@
     }
   },
   "3678": {
-    "quest": true,
     "weight": 1.36
   },
   "3688": {
@@ -10697,7 +10696,7 @@
   },
   "3695": {
     "quest": true,
-    "weight": 1.0,
+    "weight": 1.36,
     "equipable": true
   },
   "3696": {
@@ -49981,6 +49980,9 @@
   "23659": {
     "weight": 0.9
   },
+  "23670": {
+    "weight": 0.015
+  },
   "23673": {
     "weight": 0.9,
     "equipable": true,
@@ -50215,6 +50217,9 @@
     "quest": true
   },
   "23817": {
+    "quest": true
+  },
+  "23818": {
     "quest": true
   },
   "23820": {
@@ -50468,7 +50473,7 @@
       "arange": 72,
       "rstr": 42,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23856": {
@@ -50479,7 +50484,7 @@
       "arange": 118,
       "rstr": 88,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23857": {
@@ -50490,7 +50495,7 @@
       "arange": 172,
       "rstr": 138,
       "prayer": 3,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23859": {
@@ -50549,6 +50554,9 @@
   },
   "23865": {
     "weight": 0.056
+  },
+  "23871": {
+    "weight": 1.0
   },
   "23877": {
     "weight": 2.5
@@ -50722,6 +50730,16 @@
       "aspeed": 4
     }
   },
+  "23899": {
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "amagic": 128,
+      "prayer": 2,
+      "aspeed": 4
+    }
+  },
   "23900": {
     "weight": 1.5,
     "equipable": true,
@@ -50740,7 +50758,7 @@
       "arange": 72,
       "rstr": 42,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23902": {
@@ -50751,7 +50769,7 @@
       "arange": 118,
       "rstr": 88,
       "prayer": 1,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23903": {
@@ -50762,7 +50780,7 @@
       "arange": 172,
       "rstr": 138,
       "prayer": 3,
-      "aspeed": 4
+      "aspeed": 5
     }
   },
   "23905": {
@@ -51178,6 +51196,12 @@
       "slot": 7
     }
   },
+  "24191": {
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
   "24192": {
     "weight": 0.3,
     "equipable": true,
@@ -51341,14 +51365,21 @@
     "quest": true
   },
   "24260": {
-    "weight": 0.3
+    "quest": true
   },
   "24261": {
     "quest": true
   },
+  "24262": {
+    "quest": true,
+    "weight": 1.36
+  },
+  "24263": {
+    "weight": 0.3
+  },
   "24265": {
     "quest": true,
-    "weight": 2.0,
+    "weight": 2.2,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -51363,7 +51394,7 @@
   },
   "24266": {
     "quest": true,
-    "weight": 2.0,
+    "weight": 2.2,
     "equipable": true,
     "equipment": {
       "slot": 5,
@@ -51377,8 +51408,7 @@
     }
   },
   "24271": {
-    "quest": true,
-    "weight": 2.0,
+    "weight": 2.7,
     "equipable": true,
     "equipment": {
       "slot": 0,
