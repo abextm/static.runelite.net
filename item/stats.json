@@ -51159,6 +51159,7 @@
     }
   },
   "24326": {
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 5
