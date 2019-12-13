@@ -51460,90 +51460,59 @@
       "aspeed": 4
     }
   },
-  "24417": {
-    "weight": 1.8,
+  "24428": {
+    "weight": 3.1,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "astab": 52,
-      "aslash": -4,
-      "acrush": 95,
-      "str": 89,
-      "prayer": 2,
-      "aspeed": 4
+      "slot": 5
     }
   },
-  "24418": {
-    "weight": 1.0,
+  "24430": {
+    "weight": 3.1,
     "equipable": true,
     "equipment": {
-      "slot": 5,
-      "amagic": 15,
-      "dstab": -10,
-      "dslash": -10,
-      "dcrush": -10,
-      "dmagic": 15,
-      "drange": -10,
-      "mdmg": 4,
-      "prayer": -5
+      "slot": 5
     }
   },
-  "24419": {
-    "weight": 2.7,
+  "24431": {
+    "weight": 3.1,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "astab": -2,
-      "aslash": -2,
-      "acrush": 8,
-      "amagic": -5,
-      "arange": -5,
-      "dstab": 19,
-      "dslash": 10,
-      "dcrush": 21,
-      "drange": 12,
-      "str": 4,
-      "prayer": 1
+      "slot": 5
     }
   },
-  "24420": {
-    "weight": 9.9,
+  "24435": {
+    "weight": 0.1
+  },
+  "24437": {
+    "weight": 3.1,
     "equipable": true,
     "equipment": {
-      "slot": 4,
-      "astab": -3,
-      "aslash": -3,
-      "acrush": 12,
-      "amagic": -11,
-      "arange": -10,
-      "dstab": 67,
-      "dslash": 55,
-      "dcrush": 71,
-      "drange": 35,
-      "str": 4,
-      "prayer": 2
+      "slot": 5
     }
   },
-  "24422": {
-    "weight": 1.5,
+  "24438": {
+    "weight": 3.1,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "amagic": 16,
-      "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "slot": 5
     }
   },
-  "24425": {
-    "weight": 1.6,
+  "24439": {
+    "weight": 3.1,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "amagic": 16,
-      "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "slot": 5
     }
+  },
+  "24440": {
+    "weight": 3.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "24443": {
+    "weight": 0.1
   }
 }
