@@ -14063,6 +14063,14 @@
     "name": "Chasm Crawler",
     "hitpoints": 60
   },
+  "14042": {
+    "name": "Bat",
+    "hitpoints": 8
+  },
+  "14043": {
+    "name": "Unicorn",
+    "hitpoints": 19
+  },
   "14103": {
     "name": "Blue dragon",
     "hitpoints": 105

@@ -17858,7 +17858,7 @@
       "dslash": 13,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -17877,8 +17877,8 @@
       "dcrush": 2,
       "dmagic": 15,
       "str": 68,
-      "mdmg": 5,
-      "aspeed": 6
+      "aspeed": 6,
+      "mdmg": 5.0
     },
     "ge_limit": 15
   },
@@ -17894,7 +17894,7 @@
       "dslash": 37,
       "dcrush": 63,
       "dmagic": 30,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -17910,7 +17910,7 @@
       "dslash": 30,
       "dcrush": 36,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -18476,7 +18476,7 @@
       "dslash": 13,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4857": {
@@ -18491,7 +18491,7 @@
       "dslash": 13,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4858": {
@@ -18506,7 +18506,7 @@
       "dslash": 13,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4859": {
@@ -18521,7 +18521,7 @@
       "dslash": 13,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4860": {
@@ -18548,8 +18548,8 @@
       "dcrush": 2,
       "dmagic": 15,
       "str": 68,
-      "mdmg": 5,
-      "aspeed": 6
+      "aspeed": 6,
+      "mdmg": 5.0
     }
   },
   "4863": {
@@ -18567,8 +18567,8 @@
       "dcrush": 2,
       "dmagic": 15,
       "str": 68,
-      "mdmg": 5,
-      "aspeed": 6
+      "aspeed": 6,
+      "mdmg": 5.0
     }
   },
   "4864": {
@@ -18586,8 +18586,8 @@
       "dcrush": 2,
       "dmagic": 15,
       "str": 68,
-      "mdmg": 5,
-      "aspeed": 6
+      "aspeed": 6,
+      "mdmg": 5.0
     }
   },
   "4865": {
@@ -18605,8 +18605,8 @@
       "dcrush": 2,
       "dmagic": 15,
       "str": 68,
-      "mdmg": 5,
-      "aspeed": 6
+      "aspeed": 6,
+      "mdmg": 5.0
     }
   },
   "4866": {
@@ -18631,7 +18631,7 @@
       "dslash": 37,
       "dcrush": 63,
       "dmagic": 30,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4869": {
@@ -18646,7 +18646,7 @@
       "dslash": 37,
       "dcrush": 63,
       "dmagic": 30,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4870": {
@@ -18661,7 +18661,7 @@
       "dslash": 37,
       "dcrush": 63,
       "dmagic": 30,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4871": {
@@ -18676,7 +18676,7 @@
       "dslash": 37,
       "dcrush": 63,
       "dmagic": 30,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4872": {
@@ -18700,7 +18700,7 @@
       "dslash": 30,
       "dcrush": 36,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4875": {
@@ -18715,7 +18715,7 @@
       "dslash": 30,
       "dcrush": 36,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4876": {
@@ -18730,7 +18730,7 @@
       "dslash": 30,
       "dcrush": 36,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4877": {
@@ -18745,7 +18745,7 @@
       "dslash": 30,
       "dcrush": 36,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "4878": {
@@ -26355,7 +26355,8 @@
     "equipment": {
       "slot": 12,
       "amagic": 6,
-      "dmagic": 6
+      "dmagic": 6,
+      "mdmg": 0.2
     },
     "ge_limit": 8
   },
@@ -26941,7 +26942,7 @@
       "slot": 5,
       "amagic": 15,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 15
   },
@@ -27072,7 +27073,7 @@
       "slot": 4,
       "amagic": 22,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 125
   },
@@ -27084,7 +27085,7 @@
       "slot": 0,
       "amagic": 6,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 125
   },
@@ -27118,7 +27119,7 @@
       "slot": 7,
       "amagic": 17,
       "dmagic": 17,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 125
   },
@@ -38163,7 +38164,7 @@
       "slot": 4,
       "amagic": 24,
       "dmagic": 24,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -38175,7 +38176,7 @@
       "slot": 7,
       "amagic": 19,
       "dmagic": 19,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -38187,7 +38188,7 @@
       "slot": 0,
       "amagic": 8,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -42821,7 +42822,8 @@
     "equipment": {
       "slot": 12,
       "amagic": 12,
-      "dmagic": 12
+      "dmagic": 12,
+      "mdmg": 0.5
     }
   },
   "11771": {
@@ -43060,8 +43062,8 @@
       "dcrush": 3,
       "dmagic": 17,
       "str": 72,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -43869,7 +43871,7 @@
       "dslash": 52,
       "dcrush": 48,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -44246,8 +44248,8 @@
     "equipment": {
       "slot": 2,
       "amagic": 12,
-      "mdmg": 5,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 5.0
     },
     "ge_limit": 8
   },
@@ -46344,7 +46346,7 @@
       "slot": 0,
       "amagic": 6,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "12420": {
@@ -46355,7 +46357,7 @@
       "slot": 4,
       "amagic": 22,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "12421": {
@@ -46366,7 +46368,7 @@
       "slot": 7,
       "amagic": 17,
       "dmagic": 17,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "12422": {
@@ -46577,7 +46579,7 @@
       "slot": 0,
       "amagic": 6,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "12458": {
@@ -46588,7 +46590,7 @@
       "slot": 4,
       "amagic": 22,
       "dmagic": 22,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "12459": {
@@ -46599,7 +46601,7 @@
       "slot": 7,
       "amagic": 17,
       "dmagic": 17,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "12460": {
@@ -47982,7 +47984,7 @@
       "dslash": 52,
       "dcrush": 48,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -48177,8 +48179,8 @@
       "dcrush": 73,
       "dmagic": 2,
       "drange": 52,
-      "mdmg": 3,
-      "prayer": 3
+      "prayer": 3,
+      "mdmg": 3.0
     },
     "ge_limit": 8
   },
@@ -48508,8 +48510,8 @@
       "dcrush": 3,
       "dmagic": 17,
       "str": 72,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -48526,8 +48528,8 @@
       "dcrush": 3,
       "dmagic": 17,
       "str": 72,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     }
   },
   "12905": {
@@ -49945,7 +49947,7 @@
       "dcrush": 5,
       "dmagic": 8,
       "drange": 5,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -52400,8 +52402,8 @@
     "equipment": {
       "slot": 9,
       "amagic": 10,
-      "mdmg": 5,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 5.0
     },
     "ge_limit": 8
   },
@@ -52919,8 +52921,8 @@
     "equipment": {
       "slot": 2,
       "amagic": 12,
-      "mdmg": 5,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 5.0
     }
   },
   "19722": {
@@ -55432,7 +55434,7 @@
       "slot": 4,
       "amagic": 10,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -55444,7 +55446,7 @@
       "slot": 7,
       "amagic": 6,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -55485,7 +55487,7 @@
       "slot": 4,
       "amagic": 24,
       "dmagic": 24,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -55497,7 +55499,7 @@
       "slot": 7,
       "amagic": 19,
       "dmagic": 19,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -55595,7 +55597,7 @@
       "slot": 0,
       "amagic": 5,
       "dmagic": 4,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -56861,8 +56863,8 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 20,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -56923,7 +56925,7 @@
       "dslash": 11,
       "dcrush": 13,
       "dmagic": 5,
-      "mdmg": 3
+      "mdmg": 3.0
     },
     "ge_limit": 8
   },
@@ -56939,7 +56941,7 @@
       "dslash": 31,
       "dcrush": 51,
       "dmagic": 28,
-      "mdmg": 3
+      "mdmg": 3.0
     },
     "ge_limit": 8
   },
@@ -56955,7 +56957,7 @@
       "dslash": 24,
       "dcrush": 30,
       "dmagic": 20,
-      "mdmg": 3
+      "mdmg": 3.0
     },
     "ge_limit": 8
   },
@@ -58481,7 +58483,7 @@
       "dmagic": 15,
       "drange": -5,
       "str": -2,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -58502,7 +58504,7 @@
       "dmagic": 15,
       "drange": -55,
       "str": -2,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -58836,7 +58838,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "21778": {
@@ -58858,7 +58860,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "21782": {
@@ -58880,7 +58882,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "21786": {
@@ -58902,7 +58904,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "21793": {
@@ -58916,7 +58918,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "21795": {
@@ -58930,7 +58932,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "21797": {
@@ -60811,8 +60813,8 @@
       "dcrush": 3,
       "dmagic": 17,
       "str": 72,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -62011,8 +62013,8 @@
       "dcrush": 4,
       "dmagic": 18,
       "str": 72,
-      "mdmg": 10,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 10.0
     },
     "ge_limit": 10
   },
@@ -64511,8 +64513,8 @@
     "equipment": {
       "slot": 9,
       "amagic": 10,
-      "mdmg": 5,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 5.0
     }
   },
   "23446": {
@@ -64990,7 +64992,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "23605": {
@@ -65004,7 +65006,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "23607": {
@@ -65018,7 +65020,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "23611": {
@@ -65046,8 +65048,8 @@
       "dcrush": 3,
       "dmagic": 17,
       "str": 72,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -65083,8 +65085,8 @@
       "dcrush": 4,
       "dmagic": 18,
       "str": 72,
-      "mdmg": 10,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 10.0
     },
     "ge_limit": 10
   },
@@ -65153,8 +65155,8 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 20,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -65411,7 +65413,7 @@
       "slot": 5,
       "amagic": 15,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 15
   },
@@ -65430,8 +65432,8 @@
       "dcrush": 2,
       "dmagic": 15,
       "str": 68,
-      "mdmg": 5,
-      "aspeed": 6
+      "aspeed": 6,
+      "mdmg": 5.0
     },
     "ge_limit": 15
   },
@@ -65442,8 +65444,8 @@
     "equipment": {
       "slot": 2,
       "amagic": 12,
-      "mdmg": 5,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 5.0
     },
     "ge_limit": 8
   },
@@ -67436,8 +67438,8 @@
       "dcrush": 3,
       "dmagic": 17,
       "str": 72,
-      "mdmg": 15,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 15.0
     }
   },
   "24147": {
@@ -68206,7 +68208,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "24233": {
@@ -68220,7 +68222,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "24234": {
@@ -68234,7 +68236,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "24236": {
@@ -68272,7 +68274,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "24249": {
@@ -68286,7 +68288,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "24250": {
@@ -68300,7 +68302,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "24253": {
@@ -68404,8 +68406,8 @@
       "slot": 0,
       "amagic": 5,
       "dmagic": 5,
-      "mdmg": 1,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 1.0
     }
   },
   "24291": {
@@ -68416,8 +68418,8 @@
       "slot": 4,
       "amagic": 25,
       "dmagic": 21,
-      "mdmg": 1,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 1.0
     }
   },
   "24294": {
@@ -68428,8 +68430,8 @@
       "slot": 7,
       "amagic": 18,
       "dmagic": 14,
-      "mdmg": 1,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 1.0
     }
   },
   "24305": {
@@ -68890,8 +68892,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     },
     "ge_limit": 8
   },
@@ -68903,8 +68905,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     }
   },
   "24424": {
@@ -68915,8 +68917,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     }
   },
   "24425": {
@@ -68927,8 +68929,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     }
   },
   "24428": {
@@ -69350,7 +69352,7 @@
       "dslash": 11,
       "dcrush": 13,
       "dmagic": 5,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "24666": {
@@ -69365,7 +69367,7 @@
       "dslash": 31,
       "dcrush": 51,
       "dmagic": 28,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "24668": {
@@ -69380,7 +69382,7 @@
       "dslash": 24,
       "dcrush": 30,
       "dmagic": 20,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "24670": {
@@ -71304,7 +71306,8 @@
     "equipment": {
       "slot": 12,
       "amagic": 12,
-      "dmagic": 12
+      "dmagic": 12,
+      "mdmg": 0.5
     }
   },
   "25260": {
@@ -71792,7 +71795,7 @@
       "dslash": 39,
       "dcrush": 64,
       "dmagic": 24,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 70
   },
@@ -71833,7 +71836,7 @@
       "dslash": 14,
       "dcrush": 17,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "25416": {
@@ -71847,7 +71850,7 @@
       "dslash": 31,
       "dcrush": 38,
       "dmagic": 17,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 70
   },
@@ -72117,8 +72120,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     }
   },
   "25518": {
@@ -72133,7 +72136,7 @@
       "dslash": 11,
       "dcrush": 13,
       "dmagic": 5,
-      "mdmg": 2
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -73752,8 +73755,8 @@
       "dslash": 3,
       "dcrush": 9,
       "drange": 6,
-      "mdmg": 3,
-      "prayer": 1
+      "prayer": 1,
+      "mdmg": 3.0
     }
   },
   "25990": {
@@ -74661,8 +74664,8 @@
       "dslash": 14,
       "dcrush": 16,
       "dmagic": 6,
-      "mdmg": 2,
-      "prayer": 1
+      "prayer": 1,
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -74678,8 +74681,8 @@
       "dslash": 38,
       "dcrush": 56,
       "dmagic": 31,
-      "mdmg": 2,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -74695,8 +74698,8 @@
       "dslash": 28,
       "dcrush": 34,
       "dmagic": 22,
-      "mdmg": 2,
-      "prayer": 1
+      "prayer": 1,
+      "mdmg": 2.0
     },
     "ge_limit": 8
   },
@@ -77053,7 +77056,8 @@
     "equipment": {
       "slot": 12,
       "amagic": 12,
-      "dmagic": 12
+      "dmagic": 12,
+      "mdmg": 0.5
     }
   },
   "26768": {
@@ -78230,7 +78234,7 @@
       "slot": 4,
       "amagic": 10,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27117": {
@@ -78241,7 +78245,7 @@
       "slot": 7,
       "amagic": 6,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27119": {
@@ -78252,7 +78256,7 @@
       "slot": 0,
       "amagic": 5,
       "dmagic": 4,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27121": {
@@ -78528,8 +78532,8 @@
     "equipment": {
       "slot": 9,
       "amagic": 10,
-      "mdmg": 5,
-      "prayer": 2
+      "prayer": 2,
+      "mdmg": 5.0
     },
     "ge_limit": 8
   },
@@ -78567,7 +78571,7 @@
       "slot": 4,
       "amagic": 10,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -78579,7 +78583,7 @@
       "slot": 7,
       "amagic": 6,
       "dmagic": 6,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -78591,7 +78595,7 @@
       "slot": 0,
       "amagic": 5,
       "dmagic": 4,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -78700,7 +78704,7 @@
       "slot": 0,
       "amagic": 8,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 8
   },
@@ -78824,7 +78828,7 @@
       "dslash": 31,
       "dcrush": 51,
       "dmagic": 28,
-      "mdmg": 3
+      "mdmg": 3.0
     },
     "ge_limit": 8
   },
@@ -78840,7 +78844,7 @@
       "dslash": 24,
       "dcrush": 30,
       "dmagic": 20,
-      "mdmg": 3
+      "mdmg": 3.0
     },
     "ge_limit": 8
   },
@@ -79142,8 +79146,8 @@
       "dcrush": 73,
       "dmagic": 2,
       "drange": 52,
-      "mdmg": 5,
-      "prayer": 4
+      "prayer": 4,
+      "mdmg": 5.0
     }
   },
   "27253": {
@@ -79158,8 +79162,8 @@
       "dcrush": 73,
       "dmagic": 2,
       "drange": 52,
-      "mdmg": 5,
-      "prayer": 4
+      "prayer": 4,
+      "mdmg": 5.0
     }
   },
   "27255": {
@@ -80537,9 +80541,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "27626": {
@@ -80557,9 +80561,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "27627": {
@@ -81613,7 +81617,7 @@
       "dslash": 16,
       "dcrush": 22,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27840": {
@@ -81628,7 +81632,7 @@
       "dslash": 45,
       "dcrush": 74,
       "dmagic": 35,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "27841": {
@@ -81643,7 +81647,7 @@
       "dslash": 35,
       "dcrush": 44,
       "dmagic": 25,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "27842": {
@@ -81801,7 +81805,7 @@
       "dslash": 11,
       "dcrush": 14,
       "dmagic": 5,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27851": {
@@ -81816,7 +81820,7 @@
       "dslash": 39,
       "dcrush": 47,
       "dmagic": 22,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "27852": {
@@ -81831,7 +81835,7 @@
       "dslash": 20,
       "dcrush": 23,
       "dmagic": 14,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "27853": {
@@ -82165,8 +82169,8 @@
       "dcrush": 4,
       "dmagic": 18,
       "str": 72,
-      "mdmg": 10,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 10.0
     }
   },
   "27922": {
@@ -82184,8 +82188,8 @@
       "dcrush": 4,
       "dmagic": 18,
       "str": 72,
-      "mdmg": 10,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 10.0
     }
   },
   "27925": {
@@ -82345,7 +82349,7 @@
       "dslash": 16,
       "dcrush": 22,
       "dmagic": 8,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27952": {
@@ -82360,7 +82364,7 @@
       "dslash": 45,
       "dcrush": 74,
       "dmagic": 35,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "27955": {
@@ -82375,7 +82379,7 @@
       "dslash": 35,
       "dcrush": 44,
       "dmagic": 25,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "27965": {
@@ -82533,7 +82537,7 @@
       "dslash": 11,
       "dcrush": 14,
       "dmagic": 5,
-      "mdmg": 1
+      "mdmg": 1.0
     }
   },
   "27992": {
@@ -82548,7 +82552,7 @@
       "dslash": 39,
       "dcrush": 47,
       "dmagic": 22,
-      "mdmg": 3
+      "mdmg": 3.0
     }
   },
   "27995": {
@@ -82563,7 +82567,7 @@
       "dslash": 20,
       "dcrush": 23,
       "dmagic": 14,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "27997": {
@@ -83668,9 +83672,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28262": {
@@ -83688,9 +83692,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28264": {
@@ -83708,9 +83712,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28266": {
@@ -83728,9 +83732,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28268": {
@@ -83828,7 +83832,7 @@
     "equipment": {
       "slot": 12,
       "amagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "28316": {
@@ -84426,9 +84430,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28474": {
@@ -84446,9 +84450,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28475": {
@@ -84466,9 +84470,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28476": {
@@ -84486,9 +84490,9 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 60,
-      "mdmg": 5,
       "prayer": -1,
-      "aspeed": 4
+      "aspeed": 4,
+      "mdmg": 5.0
     }
   },
   "28477": {
@@ -85929,8 +85933,8 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 71,
-      "mdmg": 5,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 5.0
     },
     "ge_limit": 15
   },
@@ -86032,7 +86036,7 @@
       "dcrush": 51,
       "dmagic": 28,
       "str": 2,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86046,7 +86050,7 @@
       "dcrush": 23,
       "dmagic": 32,
       "str": 1,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86060,7 +86064,7 @@
       "dcrush": 10,
       "dmagic": 6,
       "str": 3,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86176,7 +86180,7 @@
       "dcrush": 51,
       "dmagic": 28,
       "str": 2,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86190,7 +86194,7 @@
       "dcrush": 23,
       "dmagic": 32,
       "str": 1,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86204,7 +86208,7 @@
       "dcrush": 10,
       "dmagic": 6,
       "str": 3,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86320,7 +86324,7 @@
       "dcrush": 51,
       "dmagic": 28,
       "str": 2,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86334,7 +86338,7 @@
       "dcrush": 23,
       "dmagic": 32,
       "str": 1,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -86348,7 +86352,7 @@
       "dcrush": 10,
       "dmagic": 6,
       "str": 3,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -87222,7 +87226,7 @@
     "equipment": {
       "slot": 2,
       "amagic": -3,
-      "mdmg": -80
+      "mdmg": -80.0
     }
   },
   "29489": {
@@ -87693,8 +87697,8 @@
       "dslash": 1,
       "dmagic": 25,
       "str": 62,
-      "mdmg": 10,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 10.0
     }
   },
   "29596": {
@@ -87720,8 +87724,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     }
   },
   "29605": {
@@ -87762,8 +87766,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 14,
-      "mdmg": 15,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 15.0
     }
   },
   "29611": {
@@ -87788,7 +87792,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "29615": {
@@ -87802,7 +87806,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "29617": {
@@ -87816,7 +87820,7 @@
       "dslash": 3,
       "dcrush": 3,
       "dmagic": 15,
-      "mdmg": 2
+      "mdmg": 2.0
     }
   },
   "29619": {
@@ -88561,7 +88565,7 @@
       "dcrush": 51,
       "dmagic": 28,
       "str": 2,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -88575,7 +88579,7 @@
       "dcrush": 23,
       "dmagic": 32,
       "str": 1,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -88589,7 +88593,7 @@
       "dcrush": 10,
       "dmagic": 6,
       "str": 3,
-      "mdmg": 1
+      "mdmg": 1.0
     },
     "ge_limit": 15
   },
@@ -88660,8 +88664,8 @@
       "dcrush": 1,
       "dmagic": 15,
       "str": 71,
-      "mdmg": 5,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 5.0
     },
     "ge_limit": 15
   },
@@ -89455,8 +89459,8 @@
       "slot": 3,
       "amagic": 16,
       "dmagic": 16,
-      "mdmg": 10,
-      "aspeed": 5
+      "aspeed": 5,
+      "mdmg": 10.0
     }
   },
   "30073": {
