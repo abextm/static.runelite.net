@@ -13086,7 +13086,7 @@
     "ge_limit": 150
   },
   "3337": {
-    "name": "Myre snelm",
+    "name": "Pointed myre snelm",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -13102,7 +13102,7 @@
     "ge_limit": 150
   },
   "3339": {
-    "name": "Blood'n'tar snelm",
+    "name": "Pointed blood'n'tar snelm",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -13118,7 +13118,7 @@
     "ge_limit": 150
   },
   "3341": {
-    "name": "Ochre snelm",
+    "name": "Pointed ochre snelm",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -13134,7 +13134,7 @@
     "ge_limit": 150
   },
   "3343": {
-    "name": "Bruise blue snelm",
+    "name": "Pointed bruise blue snelm",
     "weight": 2.0,
     "equipable": true,
     "equipment": {
@@ -13948,6 +13948,10 @@
   },
   "3548": {
     "name": "Clue scroll (hard)",
+    "weight": 0.02
+  },
+  "3550": {
+    "name": "Clue scroll (master)",
     "weight": 0.02
   },
   "3552": {
@@ -31060,7 +31064,7 @@
   },
   "8009": {
     "name": "Falador teleport",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "8010": {
     "name": "Camelot teleport",
@@ -47548,7 +47552,7 @@
   },
   "12642": {
     "name": "Lumberyard teleport",
-    "ge_limit": 10000
+    "ge_limit": 15000
   },
   "12643": {
     "name": "Pet dagannoth supreme",
@@ -85773,7 +85777,9 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 1
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28949": {
@@ -85781,7 +85787,9 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 1
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28951": {
@@ -85789,7 +85797,9 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 1
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28953": {
@@ -85797,7 +85807,9 @@
     "weight": 0.453,
     "equipable": true,
     "equipment": {
-      "slot": 1
+      "slot": 1,
+      "arange": 18,
+      "rstr": 3
     }
   },
   "28955": {
@@ -89461,7 +89473,8 @@
       "dmagic": 16,
       "aspeed": 5,
       "mdmg": 10.0
-    }
+    },
+    "ge_limit": 8
   },
   "30073": {
     "name": "Hueycoatl hide coif",
@@ -90510,5 +90523,83 @@
       "str": 13,
       "aspeed": 4
     }
+  },
+  "30307": {
+    "name": "Elias' message",
+    "weight": 0.003
+  },
+  "30308": {
+    "name": "Mastaba key",
+    "weight": 0.012
+  },
+  "30309": {
+    "name": "Mastaba key",
+    "weight": 0.012
+  },
+  "30310": {
+    "name": "Base plans",
+    "weight": 0.05
+  },
+  "30311": {
+    "name": "Base key",
+    "weight": 0.01
+  },
+  "30312": {
+    "name": "Canopic jar (oil)",
+    "weight": 0.05
+  },
+  "30313": {
+    "name": "Canopic jar (oil and berries)",
+    "weight": 0.05
+  },
+  "30314": {
+    "name": "Canopic jar (full)",
+    "weight": 0.05
+  },
+  "30316": {
+    "name": "Code key",
+    "weight": 0.02
+  },
+  "30317": {
+    "name": "Decoder strips",
+    "weight": 0.05
+  },
+  "30318": {
+    "name": "Mahjarrat notes (a-j)",
+    "weight": 0.005
+  },
+  "30319": {
+    "name": "Mahjarrat notes (k-z)",
+    "weight": 0.005
+  },
+  "30320": {
+    "name": "Arrav's axe",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30321": {
+    "name": "Zombie helmet",
+    "weight": 2.721,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "acrush": 8,
+      "amagic": -4,
+      "arange": -2,
+      "dstab": 30,
+      "dslash": 32,
+      "dcrush": 38,
+      "drange": 30,
+      "str": 2
+    }
+  },
+  "30324": {
+    "name": "Broken zombie helmet",
+    "weight": 2.721
+  },
+  "30328": {
+    "name": "Dust",
+    "weight": 0.056
   }
 }

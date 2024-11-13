@@ -7091,12 +7091,8 @@
     "name": "Goblin",
     "hitpoints": 5
   },
-  "5211": {
-    "name": "Weaponsmaster",
-    "hitpoints": 20
-  },
   "5213": {
-    "name": "Jonny the beard",
+    "name": "Jonny the Beard",
     "hitpoints": 8
   },
   "5217": {
@@ -14086,5 +14082,69 @@
   "14106": {
     "name": "Baby blue dragon",
     "hitpoints": 50
+  },
+  "14113": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14114": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14115": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14116": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14117": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14118": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14119": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14120": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14121": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14122": {
+    "name": "Armoured zombie",
+    "hitpoints": 110
+  },
+  "14125": {
+    "name": "Golem guard",
+    "hitpoints": 150
+  },
+  "14126": {
+    "name": "Small scarab",
+    "hitpoints": 40
+  },
+  "14132": {
+    "name": "Arrav",
+    "hitpoints": 600
+  },
+  "14135": {
+    "name": "Armoured zombie",
+    "hitpoints": 10
+  },
+  "14136": {
+    "name": "Armoured zombie",
+    "hitpoints": 10
+  },
+  "14137": {
+    "name": "Weaponsmaster",
+    "hitpoints": 20
   }
 }
