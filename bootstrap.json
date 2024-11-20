@@ -3,18 +3,18 @@
         {
             "diffs": [
                 {
-                    "from": "client-1.10.42.1.jar",
-                    "fromHash": "3746a2451ef85c020f78cb9ae32809d2d685ac2b035432e1cf54476aebf36a8f",
-                    "hash": "95b8cb935f3eaa1a7030716b67e4051ba91c7f6548b20dc8f10880ec1e99931a",
-                    "name": "client-1.10.43.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.42.1.jar-client-1.10.43.jar.apdiff.gz.jar",
-                    "size": 47626
+                    "from": "client-1.10.43.jar",
+                    "fromHash": "7781a791aff59731ef2a2f8be8958b3836319e612e94c382240ca6b071014c7b",
+                    "hash": "c80c28cf4b5dd3f5dbf860c4c06eae4d82e310692133a4fd9569a2811ed4704f",
+                    "name": "client-1.10.44.jar",
+                    "path": "https://repo.runelite.net/diffs/client-1.10.43.jar-client-1.10.44.jar.apdiff.gz.jar",
+                    "size": 59027
                 }
             ],
-            "hash": "7781a791aff59731ef2a2f8be8958b3836319e612e94c382240ca6b071014c7b",
-            "name": "client-1.10.43.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.43/client-1.10.43.jar",
-            "size": 6732361
+            "hash": "298ec8c8736890fbad27da446fe5e716fa7d88af420a8eaf00ca750e88a83642",
+            "name": "client-1.10.44.jar",
+            "path": "https://repo.runelite.net/net/runelite/client/1.10.44/client-1.10.44.jar",
+            "size": 6734866
         },
         {
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
@@ -275,10 +275,10 @@
             "size": 238152
         },
         {
-            "hash": "ba078bc1ed6538c7ac633e8e107e7c0359b5839fddfdf0cb8a580ce34fac7a37",
-            "name": "injected-client-1.10.43.jar",
-            "path": "https://repo.runelite.net/net/runelite/injected-client/1.10.43/injected-client-1.10.43.jar",
-            "size": 3681317
+            "hash": "676277705974b196d0e63d1b3fd70b7a0b2c4bf681adc689b92aa014c120eceb",
+            "name": "injected-client-1.10.44.jar",
+            "path": "https://repo.runelite.net/net/runelite/injected-client/1.10.44/injected-client-1.10.44.jar",
+            "size": 3630852
         },
         {
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
@@ -313,17 +313,17 @@
         {
             "diffs": [
                 {
-                    "from": "runelite-api-1.10.42.1-runtime.jar",
-                    "fromHash": "6c65bfacc39d0914445669e61e2beecc3211625bd607cedabaf1fd74f49651f0",
-                    "hash": "26ea8560bb838f0d7a4b0a0992ebade8ab9929f039024bd9b6eaa3739873a119",
-                    "name": "runelite-api-1.10.43-runtime.jar",
-                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.42.1-runtime.jar-runelite-api-1.10.43-runtime.jar.apdiff.gz.jar",
-                    "size": 1447
+                    "from": "runelite-api-1.10.43-runtime.jar",
+                    "fromHash": "0cac27110110bf625561569fc6eae5ba6d95640978433da7156af70f883dfbff",
+                    "hash": "a753945359d28ce5a3abe08190792af93f215e9bc1a35c936d7bc317dba206d2",
+                    "name": "runelite-api-1.10.44-runtime.jar",
+                    "path": "https://repo.runelite.net/diffs/runelite-api-1.10.43-runtime.jar-runelite-api-1.10.44-runtime.jar.apdiff.gz.jar",
+                    "size": 495
                 }
             ],
-            "hash": "0cac27110110bf625561569fc6eae5ba6d95640978433da7156af70f883dfbff",
-            "name": "runelite-api-1.10.43-runtime.jar",
-            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.43/runelite-api-1.10.43-runtime.jar",
+            "hash": "17368c4a6a4e053696f078f6938942273fe53c782e0617cf8952d2988559c43f",
+            "name": "runelite-api-1.10.44-runtime.jar",
+            "path": "https://repo.runelite.net/net/runelite/runelite-api/1.10.44/runelite-api-1.10.44-runtime.jar",
             "size": 255919
         }
     ],
@@ -417,5 +417,5 @@
             "version": "2.6.7"
         }
     ],
-    "version": "1.10.43"
+    "version": "1.10.44"
 }
