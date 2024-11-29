@@ -58260,6 +58260,10 @@
     "weight": 0.453,
     "ge_limit": 250
   },
+  "21524": {
+    "name": "Clue scroll (elite)",
+    "weight": 0.02
+  },
   "21525": {
     "name": "Clue scroll (elite)",
     "weight": 0.02
@@ -70624,6 +70628,38 @@
     "weight": 0.1,
     "ge_limit": 6
   },
+  "25102": {
+    "name": "Fairy mushroom",
+    "weight": 0.002,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "25110": {
+    "name": "Echo axe",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25112": {
+    "name": "Echo pickaxe",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "25114": {
+    "name": "Echo harpoon",
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
   "25117": {
     "name": "League tomato",
     "weight": 0.08
@@ -80728,7 +80764,8 @@
       "amagic": 22,
       "dmagic": 20,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 8
   },
   "27679": {
     "name": "Accursed sceptre (a)",
@@ -85271,6 +85308,17 @@
       "slot": 5
     }
   },
+  "28767": {
+    "name": "Banker's note",
+    "weight": 0.001
+  },
+  "28771": {
+    "name": "Sage's greaves",
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
   "28777": {
     "name": "Trailblazer reloaded relic hunter (t1) armour set",
     "weight": 0.05
@@ -86617,7 +86665,8 @@
   },
   "29192": {
     "name": "Sunlight moth mix (2)",
-    "weight": 0.02
+    "weight": 0.02,
+    "ge_limit": 125
   },
   "29195": {
     "name": "Moonlight moth mix (2)",
@@ -87678,6 +87727,7 @@
       "astab": 63,
       "aslash": 70,
       "dslash": 3,
+      "dcrush": 2,
       "dmagic": 5,
       "str": 13,
       "aspeed": 4
@@ -89704,294 +89754,6 @@
       "aspeed": 4
     }
   },
-  "30160": {
-    "name": "Picture map",
-    "weight": 0.5
-  },
-  "30161": {
-    "name": "Seed packets",
-    "weight": 0.01
-  },
-  "30162": {
-    "name": "Beige pumpkin",
-    "weight": 0.5
-  },
-  "30163": {
-    "name": "White pumpkin",
-    "weight": 0.5
-  },
-  "30164": {
-    "name": "Yellow pumpkin",
-    "weight": 0.5
-  },
-  "30165": {
-    "name": "Orange pumpkin",
-    "weight": 0.5
-  },
-  "30166": {
-    "name": "Red pumpkin",
-    "weight": 0.5
-  },
-  "30167": {
-    "name": "Dark green pumpkin",
-    "weight": 0.5
-  },
-  "30168": {
-    "name": "Powder grey pumpkin",
-    "weight": 0.5
-  },
-  "30169": {
-    "name": "Beige pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30170": {
-    "name": "Beige pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30171": {
-    "name": "Beige pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30172": {
-    "name": "Beige pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30173": {
-    "name": "Beige pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30174": {
-    "name": "Beige pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30175": {
-    "name": "Beige pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30176": {
-    "name": "Beige pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30177": {
-    "name": "Beige pumpkin (laughing)",
-    "weight": 0.5
-  },
-  "30178": {
-    "name": "White pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30179": {
-    "name": "White pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30180": {
-    "name": "White pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30181": {
-    "name": "White pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30182": {
-    "name": "White pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30183": {
-    "name": "White pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30184": {
-    "name": "White pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30185": {
-    "name": "White pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30186": {
-    "name": "White pumpkin (laughing)",
-    "weight": 0.5
-  },
-  "30187": {
-    "name": "Yellow pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30188": {
-    "name": "Yellow pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30189": {
-    "name": "Yellow pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30190": {
-    "name": "Yellow pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30191": {
-    "name": "Yellow pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30192": {
-    "name": "Yellow pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30193": {
-    "name": "Yellow pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30194": {
-    "name": "Yellow pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30195": {
-    "name": "Yellow pumpkin (laughing)",
-    "weight": 0.5
-  },
-  "30196": {
-    "name": "Orange pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30197": {
-    "name": "Orange pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30198": {
-    "name": "Orange pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30199": {
-    "name": "Orange pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30200": {
-    "name": "Orange pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30201": {
-    "name": "Orange pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30202": {
-    "name": "Orange pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30203": {
-    "name": "Orange pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30204": {
-    "name": "Orange pumpkin (laughing)",
-    "weight": 0.5
-  },
-  "30205": {
-    "name": "Red pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30206": {
-    "name": "Red pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30207": {
-    "name": "Red pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30208": {
-    "name": "Red pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30209": {
-    "name": "Red pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30210": {
-    "name": "Red pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30211": {
-    "name": "Red pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30212": {
-    "name": "Red pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30213": {
-    "name": "Red pumpkin (laughing)",
-    "weight": 0.5
-  },
-  "30214": {
-    "name": "Dark green pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30215": {
-    "name": "Dark green pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30216": {
-    "name": "Dark green pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30217": {
-    "name": "Dark green pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30218": {
-    "name": "Dark green pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30219": {
-    "name": "Dark green pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30220": {
-    "name": "Dark green pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30221": {
-    "name": "Dark green pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30222": {
-    "name": "Dark green pumpkin (laughing)",
-    "weight": 0.5
-  },
-  "30223": {
-    "name": "Powder grey pumpkin (disgusted)",
-    "weight": 0.5
-  },
-  "30224": {
-    "name": "Powder grey pumpkin (silly)",
-    "weight": 0.5
-  },
-  "30225": {
-    "name": "Powder grey pumpkin (evil)",
-    "weight": 0.5
-  },
-  "30226": {
-    "name": "Powder grey pumpkin (angry)",
-    "weight": 0.5
-  },
-  "30227": {
-    "name": "Powder grey pumpkin (depressed)",
-    "weight": 0.5
-  },
-  "30228": {
-    "name": "Powder grey pumpkin (shocked)",
-    "weight": 0.5
-  },
-  "30229": {
-    "name": "Powder grey pumpkin (sad)",
-    "weight": 0.5
-  },
-  "30230": {
-    "name": "Powder grey pumpkin (happy)",
-    "weight": 0.5
-  },
-  "30231": {
-    "name": "Powder grey pumpkin (laughing)",
-    "weight": 0.5
-  },
   "30232": {
     "name": "Scarecrow shirt",
     "weight": 0.3,
@@ -90601,5 +90363,752 @@
   "30328": {
     "name": "Dust",
     "weight": 0.056
+  },
+  "30331": {
+    "name": "Raging echoes relic hunter (t1) armour set",
+    "weight": 0.05
+  },
+  "30334": {
+    "name": "Raging echoes relic hunter (t2) armour set",
+    "weight": 0.05
+  },
+  "30337": {
+    "name": "Raging echoes relic hunter (t3) armour set",
+    "weight": 0.05
+  },
+  "30340": {
+    "name": "Crystal dagger (perfected)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 20,
+      "aslash": 140,
+      "acrush": -4,
+      "amagic": 1,
+      "dmagic": 1,
+      "str": 40,
+      "prayer": 3
+    }
+  },
+  "30342": {
+    "name": "Infernal harpoon (or)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30343": {
+    "name": "Infernal harpoon (uncharged)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30345": {
+    "name": "Infernal pickaxe (or)",
+    "weight": 2.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30346": {
+    "name": "Infernal pickaxe (uncharged)",
+    "weight": 2.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30347": {
+    "name": "Infernal axe (or)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30348": {
+    "name": "Infernal axe (uncharged)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30349": {
+    "name": "Dragon harpoon (or)",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30351": {
+    "name": "Dragon pickaxe (or)",
+    "weight": 2.4,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 38,
+      "aslash": -2,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30352": {
+    "name": "Dragon axe (or)",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": -2,
+      "aslash": 38,
+      "acrush": 32,
+      "dslash": 1,
+      "str": 42,
+      "aspeed": 5
+    }
+  },
+  "30357": {
+    "name": "Forager's pouch",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30359": {
+    "name": "Leprechaun's vault",
+    "weight": 1.0
+  },
+  "30361": {
+    "name": "Banker's briefcase",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 1
+    }
+  },
+  "30363": {
+    "name": "Clue compass",
+    "weight": 0.05,
+    "equipable": true,
+    "equipment": {
+      "slot": 13
+    }
+  },
+  "30365": {
+    "name": "Pocket kingdom",
+    "weight": 0.05
+  },
+  "30367": {
+    "name": "The dogsword",
+    "weight": 10.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "aslash": 132,
+      "acrush": 80,
+      "str": 132,
+      "prayer": 8,
+      "aspeed": 6
+    }
+  },
+  "30369": {
+    "name": "Sunlight spear",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 125,
+      "aslash": 75,
+      "dstab": 70,
+      "dslash": 70,
+      "dcrush": 70,
+      "dmagic": 28,
+      "drange": 70,
+      "str": 113,
+      "aspeed": 5
+    }
+  },
+  "30371": {
+    "name": "Devil's element",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 20,
+      "prayer": 3,
+      "mdmg": 6.0
+    }
+  },
+  "30373": {
+    "name": "Drygore blowpipe (empty)",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 50,
+      "aspeed": 3
+    }
+  },
+  "30374": {
+    "name": "Drygore blowpipe",
+    "weight": 0.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "arange": 50,
+      "rstr": 10,
+      "aspeed": 3
+    }
+  },
+  "30376": {
+    "name": "Amulet of the monarchs",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 2,
+      "astab": 30,
+      "aslash": 30,
+      "acrush": 30,
+      "amagic": 30,
+      "arange": 30,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "str": 15,
+      "rstr": 15,
+      "prayer": 10,
+      "mdmg": 10.0
+    }
+  },
+  "30378": {
+    "name": "Emperor ring",
+    "weight": 0.004,
+    "equipable": true,
+    "equipment": {
+      "slot": 12,
+      "astab": 30,
+      "aslash": 30,
+      "acrush": 30,
+      "amagic": 30,
+      "arange": 30,
+      "dstab": 30,
+      "dslash": 30,
+      "dcrush": 30,
+      "dmagic": 30,
+      "drange": 30,
+      "str": 15,
+      "rstr": 15,
+      "prayer": 10,
+      "mdmg": 5.0
+    }
+  },
+  "30380": {
+    "name": "Gloves of the damned",
+    "weight": 0.226,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 12,
+      "aslash": 12,
+      "acrush": 12,
+      "amagic": 6,
+      "arange": 12,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 12
+    }
+  },
+  "30382": {
+    "name": "Thousand-dragon ward",
+    "weight": 7.257,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "astab": 35,
+      "aslash": 35,
+      "acrush": 35,
+      "amagic": 15,
+      "arange": 25,
+      "dstab": 50,
+      "dslash": 55,
+      "dcrush": 53,
+      "dmagic": 40,
+      "drange": 52,
+      "str": 12,
+      "prayer": 6
+    }
+  },
+  "30384": {
+    "name": "Crystal blessing",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 13,
+      "prayer": 5
+    }
+  },
+  "30386": {
+    "name": "Sunlit bracers",
+    "weight": 0.25,
+    "equipable": true,
+    "equipment": {
+      "slot": 9,
+      "astab": 10,
+      "aslash": 10,
+      "acrush": 10,
+      "amagic": 6,
+      "arange": 18,
+      "dstab": 12,
+      "dslash": 12,
+      "dcrush": 12,
+      "dmagic": 6,
+      "drange": 12,
+      "str": 8,
+      "rstr": 4
+    }
+  },
+  "30388": {
+    "name": "Thunder khopesh",
+    "weight": 1.36,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "astab": 65,
+      "aslash": 110,
+      "str": 100,
+      "aspeed": 4
+    }
+  },
+  "30390": {
+    "name": "Nature's reprisal",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 95,
+      "amagic": 45,
+      "arange": 155,
+      "str": 103,
+      "rstr": 92,
+      "aspeed": 5,
+      "mdmg": 12.0
+    }
+  },
+  "30392": {
+    "name": "Nature's reprisal (uncharged)",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": 95,
+      "amagic": 45,
+      "arange": 155,
+      "str": 103,
+      "rstr": 92,
+      "aspeed": 5,
+      "mdmg": 12.0
+    }
+  },
+  "30393": {
+    "name": "Asgarnia echo orb",
+    "weight": 0.4
+  },
+  "30394": {
+    "name": "Desert echo orb",
+    "weight": 0.4
+  },
+  "30395": {
+    "name": "Fremennik echo orb",
+    "weight": 0.4
+  },
+  "30396": {
+    "name": "Kandarin echo orb",
+    "weight": 0.4
+  },
+  "30397": {
+    "name": "Morytania echo orb",
+    "weight": 0.4
+  },
+  "30398": {
+    "name": "Tirannwn echo orb",
+    "weight": 0.4
+  },
+  "30399": {
+    "name": "Wilderness echo orb",
+    "weight": 0.4
+  },
+  "30400": {
+    "name": "Kourend echo orb",
+    "weight": 0.4
+  },
+  "30401": {
+    "name": "Varlamore echo orb",
+    "weight": 0.4
+  },
+  "30402": {
+    "name": "Raids megarare voucher",
+    "weight": 0.1
+  },
+  "30406": {
+    "name": "Raging echoes top (t1)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30408": {
+    "name": "Raging echoes robeskirt (t1)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "30410": {
+    "name": "Raging echoes boots (t1)",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "30414": {
+    "name": "Raging echoes top (t2)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30416": {
+    "name": "Raging echoes robeskirt (t2)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "30418": {
+    "name": "Raging echoes boots (t2)",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "30420": {
+    "name": "Raging echoes hat (t3)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30422": {
+    "name": "Raging echoes top (t3)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30424": {
+    "name": "Raging echoes robeskirt (t3)",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "30426": {
+    "name": "Raging echoes boots (t3)",
+    "weight": 0.34,
+    "equipable": true,
+    "equipment": {
+      "slot": 10
+    }
+  },
+  "30428": {
+    "name": "Raging echoes cane",
+    "weight": 1.814,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 5
+    }
+  },
+  "30430": {
+    "name": "Raging echoes banner",
+    "weight": 2.267,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "aspeed": 4
+    }
+  },
+  "30432": {
+    "name": "Echo venator bow ornament kit",
+    "weight": 0.1
+  },
+  "30437": {
+    "name": "Echo virtus mask",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 8,
+      "arange": -3,
+      "dstab": 15,
+      "dslash": 14,
+      "dcrush": 16,
+      "dmagic": 6,
+      "prayer": 1,
+      "mdmg": 2.0
+    }
+  },
+  "30439": {
+    "name": "Echo virtus robe top",
+    "weight": 2.895,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 35,
+      "arange": -11,
+      "dstab": 47,
+      "dslash": 38,
+      "dcrush": 56,
+      "dmagic": 31,
+      "prayer": 2,
+      "mdmg": 2.0
+    }
+  },
+  "30441": {
+    "name": "Echo virtus robe bottom",
+    "weight": 3.79,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 26,
+      "arange": -9,
+      "dstab": 31,
+      "dslash": 28,
+      "dcrush": 34,
+      "dmagic": 22,
+      "prayer": 1,
+      "mdmg": 2.0
+    }
+  },
+  "30443": {
+    "name": "Echo virtus ornament kit",
+    "weight": 0.1
+  },
+  "30445": {
+    "name": "Echo ahrim's hood",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6,
+      "mdmg": 1.0
+    }
+  },
+  "30447": {
+    "name": "Echo ahrim's robetop",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30,
+      "mdmg": 1.0
+    }
+  },
+  "30449": {
+    "name": "Echo ahrim's robeskirt",
+    "weight": 11.339,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 30,
+      "dcrush": 36,
+      "dmagic": 22,
+      "mdmg": 1.0
+    }
+  },
+  "30451": {
+    "name": "Echo ahrim's ornament kit",
+    "weight": 0.1
+  },
+  "30453": {
+    "name": "Echo home teleport scroll",
+    "weight": 0.1,
+    "equipable": true,
+    "equipment": {}
+  },
+  "30455": {
+    "name": "Raging echoes death scroll",
+    "weight": 0.1
+  },
+  "30457": {
+    "name": "Raging echoes npc contact scroll",
+    "weight": 0.1
+  },
+  "30459": {
+    "name": "Raging echoes nexus scroll",
+    "weight": 0.1
+  },
+  "30461": {
+    "name": "Raging echoes portal scroll",
+    "weight": 0.1
+  },
+  "30463": {
+    "name": "Raging echoes nexus rug",
+    "weight": 0.1
+  },
+  "30465": {
+    "name": "Raging echoes dragon trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "30467": {
+    "name": "Raging echoes rune trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "30469": {
+    "name": "Raging echoes adamant trophy",
+    "weight": 1.5,
+    "equipable": true,
+    "equipment": {
+      "slot": 3,
+      "is2h": true,
+      "astab": -100,
+      "aslash": -100,
+      "acrush": -50,
+      "str": -10,
+      "aspeed": 4
+    }
+  },
+  "30471": {
+    "name": "Raging echoes mithril trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30473": {
+    "name": "Raging echoes steel trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30475": {
+    "name": "Raging echoes iron trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
+  },
+  "30477": {
+    "name": "Raging echoes bronze trophy",
+    "weight": 1.0,
+    "equipable": true,
+    "equipment": {
+      "slot": 5
+    }
   }
 }
