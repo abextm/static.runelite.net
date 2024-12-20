@@ -74718,7 +74718,7 @@
       "amagic": 35,
       "arange": -11,
       "dstab": 47,
-      "dslash": 38,
+      "dslash": 36,
       "dcrush": 56,
       "dmagic": 31,
       "prayer": 2,
@@ -75532,6 +75532,16 @@
     "name": "Shattered relics mystic ornament kit",
     "weight": 0.1,
     "ge_limit": 5
+  },
+  "26551": {
+    "name": "Arcane grimoire",
+    "weight": 0.3,
+    "equipable": true,
+    "equipment": {
+      "slot": 5,
+      "amagic": 6,
+      "prayer": 3
+    }
   },
   "26554": {
     "name": "Shattered relic hunter (t1) armour set",
@@ -90808,6 +90818,14 @@
     "name": "Raids megarare voucher",
     "weight": 0.1
   },
+  "30404": {
+    "name": "Raging echoes hat (t1)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
   "30406": {
     "name": "Raging echoes top (t1)",
     "weight": 0.907,
@@ -90830,6 +90848,14 @@
     "equipable": true,
     "equipment": {
       "slot": 10
+    }
+  },
+  "30412": {
+    "name": "Raging echoes hat (t2)",
+    "weight": 0.453,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
     }
   },
   "30414": {
@@ -91110,5 +91136,65 @@
     "equipment": {
       "slot": 5
     }
+  },
+  "30479": {
+    "name": "Present box hat",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30481": {
+    "name": "Present box hat",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30483": {
+    "name": "Present box hat",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30485": {
+    "name": "Present box hat",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30487": {
+    "name": "Dog disguise",
+    "weight": 0.113,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30489": {
+    "name": "Festive scarf",
+    "weight": 0.01,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30491": {
+    "name": "Dog boots",
+    "weight": 0.2,
+    "equipable": true,
+    "equipment": {
+      "slot": 4
+    }
+  },
+  "30493": {
+    "name": "Invitations",
+    "weight": 0.02
   }
 }
