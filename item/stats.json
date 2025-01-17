@@ -17269,7 +17269,7 @@
   "4532": {
     "name": "Candle lantern",
     "weight": 0.907,
-    "ge_limit": 100
+    "ge_limit": 40
   },
   "4534": {
     "name": "Candle lantern",
@@ -68727,7 +68727,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 10
   },
@@ -69591,7 +69591,8 @@
   },
   "24735": {
     "name": "Ring of endurance (uncharged)",
-    "weight": 0.006
+    "weight": 0.006,
+    "ge_limit": 5
   },
   "24736": {
     "name": "Ring of endurance",
@@ -69995,7 +69996,8 @@
     "equipable": true,
     "equipment": {
       "slot": 12
-    }
+    },
+    "ge_limit": 5
   },
   "24847": {
     "name": "Red",
@@ -70306,7 +70308,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     },
     "ge_limit": 5
   },
@@ -70635,6 +70637,11 @@
     "equipment": {
       "slot": 5
     }
+  },
+  "25104": {
+    "name": "Crystal of echoes",
+    "equipable": true,
+    "equipment": {}
   },
   "25110": {
     "name": "Echo axe",
@@ -74907,6 +74914,10 @@
   "26366": {
     "name": "Important letter",
     "weight": 0.001
+  },
+  "26368": {
+    "name": "Nihil dust",
+    "ge_limit": 11000
   },
   "26370": {
     "name": "Ancient hilt",
@@ -83431,12 +83442,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 4,
-      "acrush": 2,
+      "astab": -3,
+      "aslash": 6,
+      "acrush": 3,
       "dslash": 1,
-      "str": 5,
-      "aspeed": 5
+      "str": 8,
+      "aspeed": 7
     }
   },
   "28199": {
@@ -83446,12 +83457,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 5,
-      "acrush": 3,
+      "astab": -3,
+      "aslash": 8,
+      "acrush": 4,
       "dslash": 1,
-      "str": 7,
-      "aspeed": 5
+      "str": 11,
+      "aspeed": 7
     }
   },
   "28202": {
@@ -83461,12 +83472,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 8,
-      "acrush": 6,
+      "astab": -3,
+      "aslash": 12,
+      "acrush": 9,
       "dslash": 1,
-      "str": 9,
-      "aspeed": 5
+      "str": 14,
+      "aspeed": 7
     }
   },
   "28205": {
@@ -83491,12 +83502,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 12,
-      "acrush": 10,
+      "astab": -3,
+      "aslash": 19,
+      "acrush": 16,
       "dslash": 1,
-      "str": 13,
-      "aspeed": 5
+      "str": 20,
+      "aspeed": 7
     }
   },
   "28211": {
@@ -83506,12 +83517,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 17,
-      "acrush": 15,
+      "astab": -3,
+      "aslash": 27,
+      "acrush": 24,
       "dslash": 1,
-      "str": 19,
-      "aspeed": 5
+      "str": 30,
+      "aspeed": 7
     }
   },
   "28214": {
@@ -83521,12 +83532,12 @@
     "equipment": {
       "slot": 3,
       "is2h": true,
-      "astab": -2,
-      "aslash": 26,
-      "acrush": 24,
+      "astab": -3,
+      "aslash": 41,
+      "acrush": 38,
       "dslash": 1,
-      "str": 29,
-      "aspeed": 5
+      "str": 46,
+      "aspeed": 7
     }
   },
   "28217": {
@@ -85322,6 +85333,10 @@
     "name": "Banker's note",
     "weight": 0.001
   },
+  "28769": {
+    "name": "Guardian horn",
+    "weight": 0.2
+  },
   "28771": {
     "name": "Sage's greaves",
     "equipable": true,
@@ -85498,7 +85513,8 @@
       "arange": 87,
       "str": 91,
       "aspeed": 5
-    }
+    },
+    "ge_limit": 125
   },
   "28837": {
     "name": "Irit tar",
@@ -88771,17 +88787,13 @@
     "ge_limit": 15
   },
   "29852": {
-    "name": "Eclipse atlatl",
+    "name": "Atlatl dart",
     "weight": 3.628,
     "equipable": true,
     "equipment": {
-      "slot": 3,
-      "is2h": true,
-      "arange": 87,
-      "str": 40,
-      "aspeed": 4
+      "slot": 13
     },
-    "ge_limit": 15
+    "ge_limit": 11000
   },
   "29853": {
     "name": "Clue scroll (easy)",
@@ -90372,7 +90384,8 @@
   },
   "30328": {
     "name": "Dust",
-    "weight": 0.056
+    "weight": 0.056,
+    "ge_limit": 250
   },
   "30331": {
     "name": "Raging echoes relic hunter (t1) armour set",
@@ -90398,7 +90411,8 @@
       "amagic": 1,
       "dmagic": 1,
       "str": 40,
-      "prayer": 3
+      "prayer": 3,
+      "aspeed": 4
     }
   },
   "30342": {
@@ -90920,7 +90934,7 @@
     "equipable": true,
     "equipment": {
       "slot": 3,
-      "aspeed": 5
+      "aspeed": 4
     }
   },
   "30430": {
@@ -90941,15 +90955,7 @@
     "weight": 0.1,
     "equipable": true,
     "equipment": {
-      "slot": 0,
-      "amagic": 8,
-      "arange": -3,
-      "dstab": 15,
-      "dslash": 14,
-      "dcrush": 16,
-      "dmagic": 6,
-      "prayer": 1,
-      "mdmg": 2.0
+      "slot": 0
     }
   },
   "30439": {
@@ -91039,9 +91045,7 @@
   },
   "30453": {
     "name": "Echo home teleport scroll",
-    "weight": 0.1,
-    "equipable": true,
-    "equipment": {}
+    "weight": 0.1
   },
   "30455": {
     "name": "Raging echoes death scroll",
@@ -91057,10 +91061,6 @@
   },
   "30461": {
     "name": "Raging echoes portal scroll",
-    "weight": 0.1
-  },
-  "30463": {
-    "name": "Raging echoes nexus rug",
     "weight": 0.1
   },
   "30465": {
@@ -91142,7 +91142,7 @@
     "weight": 0.113,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 0
     }
   },
   "30481": {
@@ -91150,7 +91150,7 @@
     "weight": 0.113,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 0
     }
   },
   "30483": {
@@ -91158,7 +91158,7 @@
     "weight": 0.113,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 0
     }
   },
   "30485": {
@@ -91166,7 +91166,7 @@
     "weight": 0.113,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 0
     }
   },
   "30487": {
@@ -91174,7 +91174,7 @@
     "weight": 0.113,
     "equipable": true,
     "equipment": {
-      "slot": 4
+      "slot": 0
     }
   },
   "30489": {
@@ -91182,7 +91182,7 @@
     "weight": 0.01,
     "equipable": true,
     "equipment": {
-      "slot": 0
+      "slot": 2
     }
   },
   "30491": {
@@ -91190,11 +91190,227 @@
     "weight": 0.2,
     "equipable": true,
     "equipment": {
+      "slot": 10
+    }
+  },
+  "30519": {
+    "name": "Echo ahrim's hood 100",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6,
+      "mdmg": 1.0
+    }
+  },
+  "30521": {
+    "name": "Echo ahrim's robetop 100",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30,
+      "mdmg": 1.0
+    }
+  },
+  "30523": {
+    "name": "Echo ahrim's robeskirt 100",
+    "weight": 11.339,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 30,
+      "dcrush": 36,
+      "dmagic": 22,
+      "mdmg": 1.0
+    }
+  },
+  "30525": {
+    "name": "Echo ahrim's hood 75",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6,
+      "mdmg": 1.0
+    }
+  },
+  "30527": {
+    "name": "Echo ahrim's robetop 75",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30,
+      "mdmg": 1.0
+    }
+  },
+  "30529": {
+    "name": "Echo ahrim's robeskirt 75",
+    "weight": 11.339,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 30,
+      "dcrush": 36,
+      "dmagic": 22,
+      "mdmg": 1.0
+    }
+  },
+  "30531": {
+    "name": "Echo ahrim's hood 50",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6,
+      "mdmg": 1.0
+    }
+  },
+  "30533": {
+    "name": "Echo ahrim's robetop 50",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30,
+      "mdmg": 1.0
+    }
+  },
+  "30535": {
+    "name": "Echo ahrim's robeskirt 50",
+    "weight": 11.339,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 30,
+      "dcrush": 36,
+      "dmagic": 22,
+      "mdmg": 1.0
+    }
+  },
+  "30537": {
+    "name": "Echo ahrim's hood 25",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0,
+      "amagic": 6,
+      "arange": -2,
+      "dstab": 15,
+      "dslash": 13,
+      "dcrush": 16,
+      "dmagic": 6,
+      "mdmg": 1.0
+    }
+  },
+  "30539": {
+    "name": "Echo ahrim's robetop 25",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
+      "slot": 4,
+      "amagic": 30,
+      "arange": -10,
+      "dstab": 52,
+      "dslash": 37,
+      "dcrush": 63,
+      "dmagic": 30,
+      "mdmg": 1.0
+    }
+  },
+  "30541": {
+    "name": "Echo ahrim's robeskirt 25",
+    "weight": 11.339,
+    "equipable": true,
+    "equipment": {
+      "slot": 7,
+      "amagic": 22,
+      "arange": -7,
+      "dstab": 33,
+      "dslash": 30,
+      "dcrush": 36,
+      "dmagic": 22,
+      "mdmg": 1.0
+    }
+  },
+  "30543": {
+    "name": "Echo ahrim's hood 0",
+    "weight": 0.907,
+    "equipable": true,
+    "equipment": {
+      "slot": 0
+    }
+  },
+  "30545": {
+    "name": "Echo ahrim's robetop 0",
+    "weight": 4.535,
+    "equipable": true,
+    "equipment": {
       "slot": 4
     }
   },
-  "30493": {
-    "name": "Invitations",
-    "weight": 0.02
+  "30547": {
+    "name": "Echo ahrim's robeskirt 0",
+    "weight": 11.339,
+    "equipable": true,
+    "equipment": {
+      "slot": 7
+    }
+  },
+  "30554": {
+    "name": "Raging echoes rug",
+    "weight": 0.1
+  },
+  "30557": {
+    "name": "Raging echoes curtains",
+    "weight": 1.0
+  },
+  "30560": {
+    "name": "Raging echoes scrying pool scroll",
+    "weight": 0.1
+  },
+  "30563": {
+    "name": "Raging echoes spirit tree scroll",
+    "weight": 0.1
   }
 }

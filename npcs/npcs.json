@@ -759,10 +759,6 @@
     "name": "Dust devil",
     "hitpoints": 105
   },
-  "426": {
-    "name": "Turoth",
-    "hitpoints": 78
-  },
   "427": {
     "name": "Turoth",
     "hitpoints": 81
@@ -778,14 +774,6 @@
   "430": {
     "name": "Turoth",
     "hitpoints": 76
-  },
-  "431": {
-    "name": "Turoth",
-    "hitpoints": 80
-  },
-  "432": {
-    "name": "Turoth",
-    "hitpoints": 80
   },
   "433": {
     "name": "Pyrefiend",
@@ -10223,10 +10211,6 @@
     "name": "Deranged archaeologist",
     "hitpoints": 200
   },
-  "7849": {
-    "name": "Definitely Not Dusk",
-    "hitpoints": 450
-  },
   "7851": {
     "name": "Dusk",
     "hitpoints": 450
@@ -11318,6 +11302,22 @@
   "9282": {
     "name": "Basilisk Youngling",
     "hitpoints": 60
+  },
+  "9283": {
+    "name": "Basilisk",
+    "hitpoints": 75
+  },
+  "9284": {
+    "name": "Basilisk",
+    "hitpoints": 75
+  },
+  "9285": {
+    "name": "Basilisk",
+    "hitpoints": 75
+  },
+  "9286": {
+    "name": "Basilisk",
+    "hitpoints": 75
   },
   "9287": {
     "name": "Monstrous Basilisk",
